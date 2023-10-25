@@ -56,7 +56,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [⭐ MR.SATYAM ⭐](https://t.me/MRSATYAM01)
+- » [⭐ 🇲 🇷 .🇸 🇦 🇹 🇾 🇦 🇲  ⭐](https://t.me/MRSATYAM01)
 - » [Shivang](https://github.com/ShivangKakkar)
 - » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
