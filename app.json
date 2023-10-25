@@ -29,7 +29,7 @@
             "description": "Telegram id of the person who will known as owner of the bot.",
             "required": true
         }, 
-        "API_HASH": {
+        "API_HASH": {799
             "description": "telegram api hash here",
             "required": true
         }
